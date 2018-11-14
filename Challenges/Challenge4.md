@@ -1,6 +1,6 @@
 # Challenge 4 - Prove service availability during upgrade
 
-Sooner or later during the application lifecycle, we will need to upgrade the application code or configuration. 
+Sooner or later during the application lifecycle, we will need to upgrade the application code or configuration.
 
 We challenge you to prove that your service will remain healthy during application upgrades, with no data-loss, minimal downtime and failed client requests.
 

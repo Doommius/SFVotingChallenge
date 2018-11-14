@@ -1,6 +1,6 @@
 # Challenge 0 - Local developer machine
 
-As a prerequisite for this hackathon, we have asked you to bring a fully functioning developer machine. 
+As a prerequisite for this hackathon, we have asked you to bring a fully functioning developer machine.
 
 To get started, we challenge you to get our sample Voting application up and running on your local developer machine.
 

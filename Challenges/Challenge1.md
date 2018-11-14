@@ -10,13 +10,12 @@ We will be using a 5-node cluster based on the Standard_E2s_v3 VM template in th
 
 - [Create Service Fabric clusters on Windows Server or Linux](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-deploy-anywhere)
 - [Tutorial: Deploy a Service Fabric Windows cluster into an Azure virtual network](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-vnet-and-windows-cluster)
-- [Service Fabric explorer] https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-visualizing-your-cluster
+- [Service Fabric explorer](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-visualizing-your-cluster)
 - [Service Fabric cluster capacity planning considerations](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-capacity)
 
 ## Success Criteria
 
-To successfully complete this challenge, you need to be able to demonstrate to the instructors that your cluster is up and healthy
-.
+To successfully complete this challenge, you need to be able to demonstrate to the instructors that your cluster is up and healthy.
 
 ## Tips
 
