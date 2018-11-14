@@ -50,7 +50,7 @@ foreach ($poll in $polls) {
     $testUri = "${endpoint}/polls/$poll"
     call -method "POST" -uri $testUri
 
-    #Start-Sleep -Seconds 10
+    Start-Sleep -Seconds 10
 
     $testUri = "${endpoint}/polls"
     call -method "GET" -uri $testUri
